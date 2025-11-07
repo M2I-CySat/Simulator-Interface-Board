@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SJ-3566AN")(type "KiCad")(uri "${KIPRJMOD}/External_Libraries/symbols/SJ-3566AN.kicad_sym")(options "")(descr ""))
+)
